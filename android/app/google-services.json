@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "887591657149",
+    "project_id": "gritstone-e7e9d",
+    "storage_bucket": "gritstone-e7e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887591657149:android:5d5704450e10eb992b21d4",
+        "android_client_info": {
+          "package_name": "com.gritstone.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887591657149-m9g6k9m6u40gqr7njagqf5qsrpd9in4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gritstone.video_call",
+            "certificate_hash": "bea39b52a871e05ca6cf41653ed63c2434f515b4"
+          }
+        },
+        {
+          "client_id": "887591657149-bctf8ku16adugbisapf6vssagfbv8fop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_NgVzR3qSgWVDKvb99DM-b3MK3iDg4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887591657149-bctf8ku16adugbisapf6vssagfbv8fop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887591657149-d5h4helk48tu0rekrt9j5gfvgl5gfl5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gritstoneVideoCall.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
